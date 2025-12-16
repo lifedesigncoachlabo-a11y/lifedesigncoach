@@ -1,0 +1,168 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【AI時代だからこそ、自分の決定力が必要。 そのOSを90日で作る。】 | ライフデザインコーチング</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="fv-section">
+        <div class="container">
+            <h1 class="main-copy">【AI時代だからこそ、自分の決定力が必要。 そのOSを90日で作る。】</h1>
+            <p class="sub-text">努力や知識の積み重ねに頼らず、人生の根幹を司る判断基準—「パーソナルOS」を意図的に設計する。あなたの曖昧な不安を、揺るぎない<strong>資産型思考</strong>に変えるための、知的で哲学的な対話へ。</p>
+            <div class="cta-area">
+                <a href="#contact" class="cta-button large-button">【人生のOSをチェックする】無料面談に申し込む</a>
+            </div>
+            <div class="image-placeholder"></div>
+        </div>
+    </header>
+
+    <main>
+        <section class="section explanation-section">
+            <div class="container">
+                <h2 class="section-title">🔑 キャッチコピーの真意を解説するセクション</h2>
+                <h3 class="subsection-title">「OS（Operating System）」という言葉に込めた、真のメッセージ</h3>
+                <p>なぜ、私たちは「AI時代だからこそ決定力が必要」と訴えるのか。その真意を誤解なくお伝えします。</p>
+
+                <div class="point-group">
+                    <h4>▶︎ この言葉は、誰に向けた言葉なのか</h4>
+                    <ul>
+                        <li>知識やノウハウを追いかけることに疲れた、あなたへ。</li>
+                        <li>行動しているのに、なぜか自己肯定感だけが削られていくように感じるあなたへ。</li>
+                        <li>目の前の「稼ぎ方」ではなく、人生全体の「生き残り方（構造）」に違和感を持っているあなたへ。</li>
+                    </ul>
+
+                    <h4>▶︎ 私たちが考える「決定力」とは</h4>
+                    <p>決定力とは、「やるか迷う」時間を消し去り、<strong>考えるより先に身体が動く</strong>ための判断基準です。日々の雑多な情報や感情に振り回されることなく、あなたの人生というハードウェアを、<strong>自動的かつ最適な方向へ駆動させる根幹プログラム</strong>（OS）に他なりません。</p>
+
+                    <h4>▶︎ 誰には向いていないのか</h4>
+                    <ul>
+                        <li>一時的に楽して稼ぐ方法や、答えだけを求めている方。</li>
+                        <li>自分の意志ではなく、依存先を探している方。</li>
+                        <li>精神論や、努力と根性で問題を解決しようとしている方。</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="section empathy-section light-bg">
+            <div class="container">
+                <h2 class="section-title">🌫️ 共感セクション：あなたが抱えてきた違和感の正体</h2>
+                <blockquote class="quote">
+                    「焦っているのに、身体が動かない。」<br>
+                    「周りは成長しているのに、自分だけ何も変わっていない気がする。」
+                </blockquote>
+                <p>あなたは、決して怠けているわけではありません。むしろ、人一倍、勉強し、情報を集め、行動しようとしてきたはずです。</p>
+                <p>それなのに、なぜ、いつも同じ場所で立ち止まってしまうのでしょうか。</p>
+                <ul>
+                    <li>知識は増えたが、人生の判断は速くならない。</li>
+                    <li>自己啓発書を読んでも、根本的な不安は消えない。</li>
+                    <li>「もっと頑張れ」というメッセージに、どこか違和感がある。</li>
+                </ul>
+                <p class="emphasis-text">安心してください。その違和感こそが、あなたが<strong>「構造」</strong>に気づき始めているサインです。あなたの問題は、あなたの意志の弱さではありません。</p>
+            </div>
+        </section>
+
+        <section class="section essence-section">
+            <div class="container">
+                <h2 class="section-title">🔗 問題の本質：資本主義の「構造」と思考のズレ</h2>
+                <h3 class="subsection-title">意思や知識の前に立ちはだかる、見えない「構造の壁」</h3>
+
+                <div class="problem-point">
+                    <h4>① 決断できない理由は「意思の弱さ」ではない</h4>
+                    <p>現在の資本主義は、いかにあなたの<strong>「注意力と時間」を奪い合い</strong>、「考えさせない構造」で設計されています。考える余白を奪われているから、自分で判断できないまま都合の良い情報に誘導されてしまうのです。</p>
+                </div>
+
+                <div class="problem-point">
+                    <h4>② お金の不安が消えない理由は「知識不足」ではない</h4>
+                    <p>稼ぐことばかりを重視しがちですが、本当に重要なのは<strong>「失わない設計」</strong>をつくることです。知識ではなく、<strong>あなたの判断力や決定力</strong>こそが、この社会の搾取構造からあなたを守る盾になるのです。</p>
+                </div>
+
+                <p>私たちは、人生の主導権を奪い合う、<strong>資本主義というゲームのルール</strong>を理解せずに、個人の努力で何とかしようとしすぎています。</p>
+            </div>
+        </section>
+
+        <section class="section solution-section light-bg">
+            <div class="container">
+                <h2 class="section-title">💡 解決の方向性：決定と資産型思考</h2>
+                <p>私たちは、この構造から脱却し、<strong>「自分の人生を意図的に設計（デザイン）」</strong>するために、以下の2つを土台として構築します。</p>
+                
+                <div class="solution-point">
+                    <h3>① 本物の「決断」の構築</h3>
+                    <p>「もうやってます」という決定レベルへ。迷いをなくすとは、**「他人の基準で生きるのをやめる」**と決定することです。その**決定が深まる**と、**無意識レベルで行動し、習慣として回る**ブレない判断軸を作ります。</p>
+                </div>
+
+                <div class="solution-point">
+                    <h3>② 「資産型思考」のインストール</h3>
+                    <p>お金やモノだけが資産ではありません。<strong>「決定力」と「習慣」、そして「思考の余白」</strong>こそ、誰にも奪われない最大の資産です。</p>
+                    <ul>
+                        <li>**行動量**ではなく、**土台の設計**で未来を自動的に動かし始める視点。</li>
+                        <li>生活インフラ（環境・家計・意思決定）に直接アプローチし、**お金と時間に余裕**を生み出す視点。</li>
+                    </ul>
+                </div>
+
+                <p class="emphasis-text">この「決定力」と「資産型思考」は、人生の設計図であり、あなた自身の**「哲学」**を構築することに他なりません。</p>
+            </div>
+        </section>
+
+        <section class="section stance-section">
+            <div class="container">
+                <h2 class="section-title">🤝 ライフデザインコーチングの立ち位置</h2>
+                <p>私たちは、あなたの人生をデザインする設計士ではありません。あなたの内なる哲学を引き出し、OSをインストールするエンジニアです。</p>
+
+                <div class="stance-list">
+                    <p><strong>教えない / 答えを与えない:</strong> あなたの人生の正解は、あなたの中にしかありません。私たちは、あなたが**自分の答えを見つけるための問い**を投げかけます。</p>
+                    <p><strong>依存させない:</strong> コーチングが終わった後も、誰にも依存せず、**自分で決め続けられる状態**を作ります。</p>
+                </div>
+
+                <p>この対話を通して、あなたは「避けていた課題」に静かに向き合い、それを**強み、個性、価値、稼ぐ力といった「未来の武器」**に変えていくことができます。</p>
+            </div>
+        </section>
+
+        <section class="section meeting-section light-bg">
+            <div class="container">
+                <h2 class="section-title">🗣 無料面談について：整理と思考の言語化が目的</h2>
+                <p>この面談のゴールは、**売り込み**ではありません。あなたが抱える違和感、迷い、そして進めない理由を、知的で静かな対話の中で**言語化し、整理する**ことにあります。</p>
+                
+                <ul>
+                    <li>**目的:** 今の迷い、進めない理由、そして最初の一歩を一緒に整理します。</li>
+                    <li>**売り込みゼロ保証:** 合わないと感じた場合は、こちらから何も提案しません。強引な勧誘は一切行いません。</li>
+                    <li>**持ち帰りOK:** 面談で整理した内容を、ご自身で持ち帰って検討していただいて構いません。</li>
+                </ul>
+
+                <p class="final-push">まずは、あなたの思考の断片を一度、**外に出して、客観的に眺めてみる時間**を確保しましょう。</p>
+            </div>
+        </section>
+
+        <section id="contact" class="section final-cta-section">
+            <div class="container">
+                <h2 class="section-title">🚪 最終CTA：決断を先延ばしにしない</h2>
+                <p class="quote">未来は、「今日から」しか変えられません。<br>違和感、焦り、モヤモヤ... その感情こそが、**“まだ間に合うサイン“**です。</p>
+
+                <p>焦りから自由へ。思考が整い、自分の意志で動かせる人生へ。この決断を、資本主義の構造に奪われないでください。</p>
+
+                <div class="cta-area">
+                    <p class="cta-lead">【あなたの決定力をチェックする】</p>
+                    <a href="#" class="cta-button large-button">【人生の設計図を描く第一歩】無料個別面談に申し込む（5分で完了）</a>
+                </div>
+                
+                <div class="form-placeholder">
+                    <p>※ここに、名前、メールアドレス、電話番号、簡単な質問などの**実際のフォーム**（外部サービスなど）を組み込んでください。</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; ライフデザインコーチング. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
